@@ -15,3 +15,6 @@ D:\InterpopSharp\InteropExample\InteropExample\obj\Debug\net6.0\InteropExample.g
 D:\InterpopSharp\InteropExample\InteropExample\obj\Debug\net6.0\ref\InteropExample.dll
 D:\InterpopSharp\InteropExample\InteropExample\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Word.dll
 D:\InterpopSharp\InteropExample\InteropExample\obj\Debug\net6.0\InteropExample.csproj.ResolveComReference.cache
+D:\InterpopSharp\InteropExample\InteropExample\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+D:\InterpopSharp\InteropExample\InteropExample\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\InterpopSharp\InteropExample\InteropExample\obj\Debug\net6.0\InteropExample.csproj.CopyComplete
