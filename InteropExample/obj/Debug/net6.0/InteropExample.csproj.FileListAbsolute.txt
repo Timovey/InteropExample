@@ -1,0 +1,17 @@
+D:\InterpopSharp\InteropExample\InteropExample\bin\Debug\net6.0\InteropExample.exe
+D:\InterpopSharp\InteropExample\InteropExample\bin\Debug\net6.0\InteropExample.deps.json
+D:\InterpopSharp\InteropExample\InteropExample\bin\Debug\net6.0\InteropExample.runtimeconfig.json
+D:\InterpopSharp\InteropExample\InteropExample\bin\Debug\net6.0\InteropExample.dll
+D:\InterpopSharp\InteropExample\InteropExample\bin\Debug\net6.0\InteropExample.pdb
+D:\InterpopSharp\InteropExample\InteropExample\obj\Debug\net6.0\InteropExample.csproj.AssemblyReference.cache
+D:\InterpopSharp\InteropExample\InteropExample\obj\Debug\net6.0\InteropExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\InterpopSharp\InteropExample\InteropExample\obj\Debug\net6.0\InteropExample.AssemblyInfoInputs.cache
+D:\InterpopSharp\InteropExample\InteropExample\obj\Debug\net6.0\InteropExample.AssemblyInfo.cs
+D:\InterpopSharp\InteropExample\InteropExample\obj\Debug\net6.0\InteropExample.csproj.CoreCompileInputs.cache
+D:\InterpopSharp\InteropExample\InteropExample\obj\Debug\net6.0\InteropExample.dll
+D:\InterpopSharp\InteropExample\InteropExample\obj\Debug\net6.0\refint\InteropExample.dll
+D:\InterpopSharp\InteropExample\InteropExample\obj\Debug\net6.0\InteropExample.pdb
+D:\InterpopSharp\InteropExample\InteropExample\obj\Debug\net6.0\InteropExample.genruntimeconfig.cache
+D:\InterpopSharp\InteropExample\InteropExample\obj\Debug\net6.0\ref\InteropExample.dll
+D:\InterpopSharp\InteropExample\InteropExample\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Word.dll
+D:\InterpopSharp\InteropExample\InteropExample\obj\Debug\net6.0\InteropExample.csproj.ResolveComReference.cache
